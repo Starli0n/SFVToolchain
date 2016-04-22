@@ -1,0 +1,164 @@
+p38
+http://forums.shoryuken.com/discussion/202609/zangief-general-thread-our-russian-skies-are-protected/p38
+
+Instant Air SPD:
+963214 + P
+412369, delay, P
+
+---
+
+Against meaty:
+
+    V-Skill to CA
+    Ex Bear Grab
+
+---
+
+Of all the possible anti-airs:
+
+    Lariat
+    Standing LP (great for pre-empting crossups and preventing corner escape)
+    Standing HK (Juggle to another st. HP, lariat, or air EX SPD)
+    Crouching HP
+    Jumping MP
+    Jump back MK
+    EX Sibberian Express
+    V-Skill Flex
+    V-Skill Iron Body into CA
+    LP Boscht Dynamite
+    EX Boscht Dynamite
+    V-Reversal
+    Headbutt, maybe?
+
+Lariat is good when some shits loves spend their whole day trying to cross up you,
+slp anti-air is good against nash's qcb k, or when you so tired to spend your full mental concentration to use you slow chp (9f)/lariat (9f) as anti-air, which needs extremely good reaction;
+chp is good against cammy's dive and bison and vega
+Anyway, ex RBG anti air is funny as hell, i also tried this out in training mode
+Sometimes opponent can jump out, sometime can not.
+My conclusion is,
+1)if you preform ex RBG too early, they can jump out,
+2)if you just in the time (almost) their attack right over your head and going to touch you, and then you active ex RBG immediately, they can't jump out
+3)Why I say "almost", is because if you execute exRBG just in the time they do meatly jump attack, it always get countered.
+
+---
+
+But I will still use S.HK in some certain situation, for example:
+
+1)After H.SPD
+2)After my headbutt>s.lk>ppp combo
+
+Opponent are too far away for regular meatly headbutt pressure.
+Instead, I will use S.HK/exSPD guessing game after above 2 situations.
+
+---
+
+Mix-up
+cLP, cLP, LSPD
+cLP, MSPD
+cLP, LK, RBG
+cLP, HK
+
+---
+
+- Hit confirm into large damage via CA.
+- CA punishes many things that WERE safe on block.
+- Crack Down Back Guard from 30% screen distance
+- Becomes a hit confirm machine in V mode
+- Confirms VT off of a FLEX if your opponent pushes buttons
+- Deters projectiles at 60% screen distance with VT
+- Nails corner jumps with BD, but he could still use trusty Standing HK, but this seems more deadly, especially the range. Against Standing HK they could counter or trade, but I don't think so against LP BD's range.
+
+Because of those strengths, your game should be to walk them into the corner, threaten SPD, threaten the counters to SPD, Build VT, Save for CA
+
+---
+
+gief CA is 1 frame not 2, when gief does super to punish something that is -1. 1 frame catches their -1 so they can't jump. If gief tries to do headbutt into cr.mp, the headbutt is +7 so cr.mp's 7 frames are covered and the 1 frame link will work. Gief trying to use a normal that is +1 (st.hp st.hk or cr.hp) into CA, the 1 frame it takes for the CA to come out will make the opponent's hit-grabbable state (or whatever you wanna call it) end before the CA can connect.
+
+---
+
+From the frame data, and Ultra David's video and what I've tested*. You must be losing frames with your execution! :)
+*Test used, Ryu's normal recovery into reversal crouch LP vs Zangief's Standing MP and Crouching MP
+
+LP SPD - Dash = -2
+MP SPD - Dash = +3
+HP SPD - Dash = +3
+EX SPD - Dash = +3
+
+Post positioning differs with EX SPD giving you the premium First Class experience, and LP SPD is like economy/coach =)
+
+And in between the position gets better with HP SPD. MP position feels like LP SPD with +3 advantage. While HP SPD feels similar to EX SPD.
+
+But EX SPD definitely has the best post positioning.
+
+For example: HP or EX SPD - dash: You can land crouching LP x 3, while MP or LP SPD - dash: You can land only two.
+
+    Gemini_hk wrote: »
+    What is the best follow up after HSPD?
+
+
+I don't really know yet. But at +3 after the forward dash, you can:
+
+a) HP SPD or Regular throw
+b) Crouching LK. Crouching LP or Crouching LP. Standing LK xx Lariat (but might not work on everyone)
+
+They can mash their 3 or 4 frame normals, but your throw or attack wins.
+
+---
+
+?? Punish projectils at mid-range with armor HP ??
+
+---
+
+Ranged Punishes:
+
+cr. HK (100, 150) - Goes far enough to punish most unsafe attacks, but somewhat unrewarding
+LP SPD (180, 250) - Pretty good at grabbing attacks even quite far out, not bad for punishing.
+st. LK xx CA (390, 70) - st. LK is his farthest range button that can reasonably punish something, and with really quick spinning you can cancel into super (works even at max range, only won't work when you're hitting an extended hurtbox from an attack's recovery). Just st. LK by itself is still a good punish by merit of its enormous range, since it often hits when nothing else will, and you can even cancel to running bear for a reset.
+
+Confirm combos:
+
+All of gief's previous f+HP combos function as confirms. Here are some others:
+
+cr. MP, st. LK xx lariat (167, 323) - note this also combos to CA instead of lariat.
+st. MP, CA (430, 100)
+st. HP xx trigger (don't hold), CA (420, 150) - safely puts you into v-trigger on block, can combo super on reaction
+v-skill (hold), CA (410, 100) - Gief can super on reaction to the flex hitting.
+
+Confirm combos (light normals):
+
+cr. LP, st. LK xx lariat (137, 293) - knockdown conversion from lights.
+cr. LK, cr. LP, cr. LP (81, 189) - Max damage from a low w/o super.
+cr. LK, cr. LK, CA (377, 133) - You can also cancel into the super but linking it is much easier.
+cr. LK, cr. LP, cr. LP xx trigger (medium hold) (165, 329) - only way to combo out of 3 light normals w/o super
+cr. LK, cr. LP, cr. LP xx trigger (maximum hold), st. HP (charged) (292, 473) - You can do 2 light normals here but the damage loss is minimal and the extra confirm time is appreciated.
+cr. LK, cr. LP xx trigger (maximum hold), EX air SPD (341, 473) - Here the damage loss is notable for 3 light normals so try to confirm off two.
+
+Confirm combos (crush counter):
+
+st. HP (full charge), dash in HP SPD (372, 465) - This works at all ranges because the reel is now long enough for a dash.
+st. HK, st. HP (198, 315) - works even from almost max range
+st. HK, f+HP (198, 360) - Good okizeme and damage equal to lariat. Point blank only.
+st. HK, EX air SPD (288, 360)
+
+counter hit BnBs:
+
+f+MK, st. LK - the most useful one. I can say with absolute certainty you can do f+MK watching for counter hit and react when you get it with the st. LK xx lariat cancel. It makes f+MK a fantastic poke.
+cr. LP, cr. MP
+st. MK, CA
+cr. MK, CA
+v-skill (hold), cr. LP, cr. LP - If you get the counter hit and you don't have super, you might as well get the free damage from this ender.
+
+midair connect and juggles:
+
+anti air st. HK (CC), f+HP
+anti air st. HK (CC), EX air SPD
+
+---
+
+Full VT, Dash, -> MK (junggle), Reset, -> MK, CA
+
+---
+
+MK (Max range), VT, CA 4 Hits
+
+---
